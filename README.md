@@ -38,3 +38,10 @@ Github gebruikt SHH key
 Using the SSH protocol, you can connect and authenticate to remote servers and services. With SSH keys, you can connect to GitHub without supplying your username or password at each visit.
 
 Zodat ze kunnen checken of iedereen wel inglogt is als ie pushd of pulled
+
+Opdracht 4
+
+BOB moet de public key van hem aan alice geven en zelf de private key houden
+
+Alice moet de public key van haar zelf aan bob geven en de private key houden
+
