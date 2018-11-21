@@ -3,7 +3,7 @@
 Opdracht 1
 
 
-<?php 
+
   
 // PHP code to illustrate the working  
 // of md5(), sha1(), sha512() and hash() 
@@ -20,7 +20,7 @@ echo sprintf("The gost hashed password of %s is: %s\n",
                         $str, hash('gost', $str.$salt));                         
                         
                           
-?> 
+
 
 
 Opdracht 2
